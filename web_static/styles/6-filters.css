@@ -35,7 +35,7 @@ button:hover {
     vertical-align: middle;
     margin-left: 45px;
 }
-.amenities {
+.amenities_1 {
     height: 100%;
     width: 25%;
 
@@ -85,7 +85,7 @@ h4{
   opacity:90%;
 }
 
-.amenities:hover .popover{
+.amenities_1:hover .popover{
   display:block;
   opacity:90%;
 }
